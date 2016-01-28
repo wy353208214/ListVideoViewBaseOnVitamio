@@ -1,4 +1,4 @@
-package zunvideodemo.wangyang.www.zun1videodemo;
+package zunvideodemo.wangyang.www.zun1videodemo.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,6 +9,7 @@ import android.widget.ImageView;
 
 import java.util.List;
 
+import zunvideodemo.wangyang.www.zun1videodemo.R;
 import zunvideodemo.wangyang.www.zun1videodemo.video.VideoBean;
 import zunvideodemo.wangyang.www.zun1videodemo.view.VideoViewLayout;
 
